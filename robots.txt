@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaakaichi.femmeandroid.com/sitemap.xml
